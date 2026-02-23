@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+python-dotenv
+requests
+bs4
+requests
+python-dotenv
+xgboost
