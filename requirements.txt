@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+beautifulsoup4
+matplotlib
+scikit-survival>=0.25,<0.29
